@@ -1,4 +1,4 @@
-# Computational Fundus Imaging 
+# Computational Fundus Imaging with a Diffuser
 
 This repository provides MATLAB code for computational fundus imaging and wavefront analysis using a novel diffuser-based imaging system. The approach leverages phase mask-based computational imaging to enable digital refocusing across a large range of defocus errors without requiring moving parts, as detailed in:
 
