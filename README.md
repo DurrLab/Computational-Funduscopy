@@ -10,7 +10,7 @@ This repository provides MATLAB code for computational fundus imaging and wavefr
 - **Digital Refocusing**: Enables refocusing of fundus images computationally, covering a range of ≥ ±10 diopters of defocus error.
 - **Resolution and Field of View**: Demonstrates resolutions of 7.7–9.6 line pairs per mm with a field of view ≥35 degrees.
 - **In Vivo Demonstration**: Provides the first in vivo fundus images using a diffuser-based camera.
-- **Ocular Safety**: Validated for human use under ISO 15004-2:2007 standards for ophthalmic devices.
+- **Ocular Safety**: Validated for human use under the ANSI Z80.36-2021 standard for light hazard protection for ophthalmic instruments.
 
 This repository includes code to replicate key components of the study, such as focal stack reconstruction, resolution analysis, and optical system modeling.
 
@@ -111,6 +111,5 @@ If you use this code in your work, please cite the accompanying paper:
 
 ## Acknowledgments
 
-This project is part of ongoing research at the Durr Lab at Johns Hopkins University, supported by The Wilmer Eye Institute PPF and the unrestricted grant to prevent blindness.
-
+This work is supported by the Wilmer Eye Institute Pooled Professor Fund and the unrestricted grant from Research to Prevent Blindness (RPB).
 ---
